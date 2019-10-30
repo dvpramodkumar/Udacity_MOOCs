@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 """ 
     This is the code to accompany the Lesson 1 (Naive Bayes) mini-project. 
 
@@ -10,9 +8,9 @@
     Chris has label 1
 """
     
-import sys
+#import sys
+#sys.path.append("../tools/")
 from time import time
-sys.path.append("../tools/")
 from email_preprocess import preprocess
 
 
